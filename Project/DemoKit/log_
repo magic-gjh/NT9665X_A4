@@ -1,0 +1,45 @@
+In file included from ./SrcCode/Resource/UIResource.h:3,
+                 from ./SrcCode/UI/UIGraphics.h:4,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:5:
+./SrcCode/prjcfg.h:75: warning: "_MODEL_DUAL_V18_GMD_" is not defined
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/../../../DRIVER_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/Resource/UIResource.h:3,
+                 from ./SrcCode/UI/UIGraphics.h:4,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:5:
+./SrcCode/prjcfg.h:75: warning: "_MODEL_DUAL_V18_GMD_" is not defined
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/../../../DRIVER_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/Resource/UIResource.h:3,
+                 from ./SrcCode/UI/UIGraphics.h:4,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:5:
+./SrcCode/prjcfg.h:75: warning: "_MODEL_DUAL_V18_GMD_" is not defined
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/../../../DRIVER_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/Resource/UIResource.h:3,
+                 from ./SrcCode/UI/UIGraphics.h:4,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_480x272/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:5:
+./SrcCode/prjcfg.h:75: warning: "_MODEL_DUAL_V18_GMD_" is not defined
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_480x272/UIMenu/UIMenuSetup/../../../DRIVER_480x272/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_480x272/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/Resource/UIResource.h:3,
+                 from ./SrcCode/UI/UIGraphics.h:4,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_480x272/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:5:
+./SrcCode/prjcfg.h:75: warning: "_MODEL_DUAL_V18_GMD_" is not defined
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_480x272/UIMenu/UIMenuSetup/../../../DRIVER_480x272/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_480x272/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype

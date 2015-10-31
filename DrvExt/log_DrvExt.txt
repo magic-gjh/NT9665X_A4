@@ -1,0 +1,7 @@
+In file included from e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.c:29:
+../../../../Include/DrvExt/GSensor/GSensor.h:118: warning: function declaration isn't a prototype
+../../../../Include/DrvExt/GSensor/GSensor.h:119: warning: function declaration isn't a prototype
+../../../../Include/DrvExt/GSensor/GSensor.h:120: warning: function declaration isn't a prototype
+e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxInput_Key.c:179: warning: 'VolDet_GetKey2Level' defined but not used
+e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxPower_Battery.c: In function 'DrvPower_GetBatteryLevel':
+e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxPower_Battery.c:205: warning: implicit declaration of function 'rtc_poweroffPWR'

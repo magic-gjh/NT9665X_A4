@@ -1,0 +1,13 @@
+In file included from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_3DNR.c:1:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/../../../DRIVER_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/../../../DRIVER_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
