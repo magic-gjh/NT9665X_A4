@@ -1,10 +1,10 @@
 MODELEXT_CARDV_A4_Data/Release/ObjectCode/DxStorage_Card.o: \
- e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxStorage_Card.c \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxStorage_Card.c \
  ../../../../Include/Common/Type.h ../../../../Include/Common/StdCMac.h \
  ../../../../Include/Common/Platform.h \
  ../../../../Include/Common/Kernel/mIType.h \
- e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCfg.h \
- e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.h \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCfg.h \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.h \
  ../../../../Include/DrvExt/ModelExt/IOInit.h \
  ../../../../Include/Drv/Driver_Sys/pad.h \
  ../../../../Include/Drv/Driver_Sys/top.h \
@@ -63,9 +63,9 @@ MODELEXT_CARDV_A4_Data/Release/ObjectCode/DxStorage_Card.o: \
 
 ../../../../Include/Common/Kernel/mIType.h:
 
-e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCfg.h:
+e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCfg.h:
 
-e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.h:
+e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.h:
 
 ../../../../Include/DrvExt/ModelExt/IOInit.h:
 

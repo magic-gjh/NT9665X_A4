@@ -1,5 +1,5 @@
 MODELEXT_CARDV_A4_Data/Release/ObjectCode/DxCmd.o: \
- e:/¹«°åA4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCmd.c \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCmd.c \
  ../../../../Include/Common/LibC/stdio.h \
  ../../../../Include/Common/LibC/stdarg.h \
  ../../../../Include/Common/LibC/stddef.h \
@@ -24,7 +24,7 @@ MODELEXT_CARDV_A4_Data/Release/ObjectCode/DxCmd.o: \
  ../../../../Include/Drv/Driver_Sys/ADC.h \
  ../../../../Include/Drv/Driver_Sys/Top.h \
  ../../../../Include/Drv/Driver_Sys/Driver.h \
- e:/¹«°åA4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IoCfg.h \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IoCfg.h \
  ../../../../Include/DrvExt/ModelExt/IOInit.h \
  ../../../../Include/Drv/Driver_Sys/pad.h \
  ../../../../Include/Drv/Driver_Sys/top.h \
@@ -113,7 +113,7 @@ MODELEXT_CARDV_A4_Data/Release/ObjectCode/DxCmd.o: \
 
 ../../../../Include/Drv/Driver_Sys/Driver.h:
 
-e:/¹«°åA4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IoCfg.h:
+e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IoCfg.h:
 
 ../../../../Include/DrvExt/ModelExt/IOInit.h:
 

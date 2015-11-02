@@ -1,7 +1,7 @@
 MODELEXT_CARDV_A4_Data/Release/ObjectCode/DxOutput_LED.o: \
- e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxOutput_LED.c \
- e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCfg.h \
- e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.h \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxOutput_LED.c \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCfg.h \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.h \
  ../../../../Include/Common/Type.h ../../../../Include/Common/StdCMac.h \
  ../../../../Include/Common/Platform.h \
  ../../../../Include/Common/Kernel/mIType.h \
@@ -41,9 +41,9 @@ MODELEXT_CARDV_A4_Data/Release/ObjectCode/DxOutput_LED.o: \
  ../../../../Include/Common/LibC/stddef.h \
  ../../../../Include/Common/LibC/stdlib.h
 
-e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCfg.h:
+e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCfg.h:
 
-e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.h:
+e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.h:
 
 ../../../../Include/Common/Type.h:
 

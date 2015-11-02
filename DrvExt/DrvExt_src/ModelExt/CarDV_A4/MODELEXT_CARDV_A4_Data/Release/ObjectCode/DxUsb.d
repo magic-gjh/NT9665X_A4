@@ -1,5 +1,5 @@
 MODELEXT_CARDV_A4_Data/Release/ObjectCode/DxUsb.o: \
- e:/¹«°åA4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxUsb.c \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxUsb.c \
  ../../../../Include/DrvExt/Enum/UsbDevDef.h \
  ../../../../Include/Drv/Driver_Sys/usb.h \
  ../../../../Include/Common/Type.h ../../../../Include/Common/StdCMac.h \

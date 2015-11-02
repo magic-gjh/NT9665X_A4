@@ -1,7 +1,7 @@
 MODELEXT_CARDV_A4_Data/Release/ObjectCode/DxInput_Key.o: \
- e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxInput_Key.c \
- e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCfg.h \
- e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.h \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxInput_Key.c \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCfg.h \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.h \
  ../../../../Include/Common/Type.h ../../../../Include/Common/StdCMac.h \
  ../../../../Include/Common/Platform.h \
  ../../../../Include/Common/Kernel/mIType.h \
@@ -19,7 +19,7 @@ MODELEXT_CARDV_A4_Data/Release/ObjectCode/DxInput_Key.o: \
  ../../../../Include/DrvExt/Enum/KeyDef.h \
  ../../../../Include/Drv/Driver_Sys/Rtc.h \
  ../../../../Include/DrvExt/IrRx/IrRx.h \
- e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IrRxParser.h \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IrRxParser.h \
  ../../../../Include/Common/Debug/DebugModule.h \
  ../../../../Include/Common/OS/SysKer.h \
  ../../../../Include/Common/Kernel/Kernel.h \
@@ -45,9 +45,9 @@ MODELEXT_CARDV_A4_Data/Release/ObjectCode/DxInput_Key.o: \
  ../../../../Include/Common/LibC/stddef.h \
  ../../../../Include/Common/LibC/stdlib.h
 
-e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCfg.h:
+e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCfg.h:
 
-e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.h:
+e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.h:
 
 ../../../../Include/Common/Type.h:
 
@@ -85,7 +85,7 @@ e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.h:
 
 ../../../../Include/DrvExt/IrRx/IrRx.h:
 
-e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IrRxParser.h:
+e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IrRxParser.h:
 
 ../../../../Include/Common/Debug/DebugModule.h:
 

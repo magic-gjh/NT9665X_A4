@@ -174,6 +174,9 @@ void UIFlowMovie_ReverseGearDet(void)
 {
     static BOOL u_Carback  = FALSE;
     static UINT32 uiLastPipViewStyle = 0;
+
+	//debug_msg("GPIOMap_IsReverseGear = %d\r\n", GPIOMap_IsReverseGear());
+	//debug_msg("bCarGuideLineMode = %d\r\n",bCarGuideLineMode);
 	     
     if(GPIOMap_IsReverseGear()&&(bCarGuideLineMode == FALSE))
     //if(System_GetReverseGearFlag()&&(bCarGuideLineMode == FALSE))

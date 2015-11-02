@@ -1,7 +1,7 @@
 MODELEXT_CARDV_A4_Data/Release/ObjectCode/DxDisplay_TV.o: \
- e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxDisplay_TV.c \
- e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCfg.h \
- e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.h \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxDisplay_TV.c \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCfg.h \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.h \
  ../../../../Include/Common/Type.h ../../../../Include/Common/StdCMac.h \
  ../../../../Include/Common/Platform.h \
  ../../../../Include/Common/Kernel/mIType.h \
@@ -53,9 +53,9 @@ MODELEXT_CARDV_A4_Data/Release/ObjectCode/DxDisplay_TV.o: \
  ../../../../Include/Common/Debug/Perf.h \
  ../../../../Include/Common/LibC/stdlib.h
 
-e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCfg.h:
+e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCfg.h:
 
-e:/公板A4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.h:
+e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.h:
 
 ../../../../Include/Common/Type.h:
 

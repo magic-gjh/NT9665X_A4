@@ -1,5 +1,5 @@
 MODELEXT_CARDV_A4_Data/Release/ObjectCode/DxCamera_Sensor.o: \
- e:/¹«°åA4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCamera_Sensor.c \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxCamera_Sensor.c \
  ../../../../Include/Drv/Sensor/Sensor.h \
  ../../../../Include/Common/Type.h ../../../../Include/Common/StdCMac.h \
  ../../../../Include/Common/Platform.h \
@@ -14,7 +14,7 @@ MODELEXT_CARDV_A4_Data/Release/ObjectCode/DxCamera_Sensor.o: \
  ../../../../Include/Drv/Sensor/sensor.h \
  ../../../../Include/Drv/Driver_Sys/sif.h \
  ../../../../Include/Drv/Driver_Sys/pll.h \
- e:/¹«°åA4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/iocfg.h \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/iocfg.h \
  ../../../../Include/DrvExt/ModelExt/IOInit.h \
  ../../../../Include/Drv/Driver_Sys/pad.h \
  ../../../../Include/Drv/Driver_Sys/gpio.h \
@@ -80,7 +80,7 @@ MODELEXT_CARDV_A4_Data/Release/ObjectCode/DxCamera_Sensor.o: \
 
 ../../../../Include/Drv/Driver_Sys/pll.h:
 
-e:/¹«°åA4/A4_Project/DrvExt/DrvExt_src/ModelExt/CarDV_A4/iocfg.h:
+e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/iocfg.h:
 
 ../../../../Include/DrvExt/ModelExt/IOInit.h:
 

@@ -319,15 +319,17 @@ BOOL GPIOMap_IsWhiteLightOn(void)
 
 BOOL GPIOMap_IsReverseGear(void)
 {
-	BOOL flag = FALSE;
+	static BOOL flag = FALSE;
 	static UINT8 count = 0;
 	if(!gpio_getPin(GPIO_REVERSE_GEAR_DET))
 	{
 		count ++;
+		//debug_msg("magic_20151102_1\r\n");
 		if(count > 1)
 		{
 			if(!gpio_getPin(GPIO_REVERSE_GEAR_DET))
 			{
+				//debug_msg("magic_20151102_2\r\n");
 				flag = TRUE;
 				count = 0;
 			}
@@ -335,6 +337,7 @@ BOOL GPIOMap_IsReverseGear(void)
 	}
 	else
 	{
+		//debug_msg("magic_20151102_3\r\n");
 		flag = FALSE;
 		count = 0;
 	}
