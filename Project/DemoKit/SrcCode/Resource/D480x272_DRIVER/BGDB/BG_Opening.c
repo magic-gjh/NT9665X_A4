@@ -28,8 +28,11 @@
 #include "welcome.c"
 #include "Goodbye.c"
 #else
-#include "welcomeflip.c"
-#include "goodbyeflip.c"
+//#include "welcomeflip.c"
+//#include "goodbyeflip.c"
+#include "shenzhouxin_on.c"
+#include "shenzhouxin_off.c"
+
 
 //#include "xianzhi_open.c"
 //#include "xianzhi_close.c"
