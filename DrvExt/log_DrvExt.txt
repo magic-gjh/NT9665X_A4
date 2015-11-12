@@ -1,7 +1,5 @@
-In file included from e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/IOCfg.c:29:
-../../../../Include/DrvExt/GSensor/GSensor.h:118: warning: function declaration isn't a prototype
-../../../../Include/DrvExt/GSensor/GSensor.h:119: warning: function declaration isn't a prototype
-../../../../Include/DrvExt/GSensor/GSensor.h:120: warning: function declaration isn't a prototype
-e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxInput_Key.c:179: warning: 'VolDet_GetKey2Level' defined but not used
-e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxPower_Battery.c: In function 'DrvPower_GetBatteryLevel':
-e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/ModelExt/CarDV_A4/DxPower_Battery.c:205: warning: implicit declaration of function 'rtc_poweroffPWR'
+e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/DispDevPanel/Disp_IFDSI_LCD1_TWJ50IP007_ILI9806E/../dispdev_IFdsi.c: In function 'dsi_LPWriteCmd':
+e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/DispDevPanel/Disp_IFDSI_LCD1_TWJ50IP007_ILI9806E/../dispdev_IFdsi.c:165: warning: "DISPDEV_IFDSI_TYPE" is not defined
+e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/DispDevPanel/Disp_IFDSI_LCD1_TWJ50IP007_ILI9806E/../dispdev_IFdsi.c:165: warning: "DISPDEV_IFDSI_NT35410" is not defined
+e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/DispDevPanel/Disp_IFDSI_LCD1_TWJ50IP007_ILI9806E/../dispdev_IFdsi.c:168: warning: "DISPDEV_IFDSI_TYPE" is not defined
+e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/DispDevPanel/Disp_IFDSI_LCD1_TWJ50IP007_ILI9806E/../dispdev_IFdsi.c:168: warning: "DISPDEV_IFDSI_NT35510" is not defined

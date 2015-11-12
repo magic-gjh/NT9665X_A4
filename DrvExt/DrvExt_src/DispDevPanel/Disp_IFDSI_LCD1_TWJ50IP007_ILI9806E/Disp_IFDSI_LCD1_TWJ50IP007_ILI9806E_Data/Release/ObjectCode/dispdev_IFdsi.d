@@ -1,5 +1,5 @@
 Disp_IFDSI_LCD1_TWJ50IP007_ILI9806E_Data/Release/ObjectCode/dispdev_IFdsi.o: \
- e:/¹«°åA4/A4_Project/DrvExt/DrvExt_src/DispDevPanel/Disp_IFDSI_LCD1_TWJ50IP007_ILI9806E/../dispdev_IFdsi.c \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/DispDevPanel/Disp_IFDSI_LCD1_TWJ50IP007_ILI9806E/../dispdev_IFdsi.c \
  ../../../../Include/Common/Kernel/kernel.h \
  ../../../../Include/Common/Type.h ../../../../Include/Common/StdCMac.h \
  ../../../../Include/Common/Platform.h \
@@ -43,7 +43,7 @@ Disp_IFDSI_LCD1_TWJ50IP007_ILI9806E_Data/Release/ObjectCode/dispdev_IFdsi.o: \
  ../../../../Include/Drv/Driver_Sys/sif.h \
  ../../../../Include/Drv/Driver_Sys/hdmitx.h \
  ../../../../Include/Drv/Driver_Sys/top.h \
- e:/¹«°åA4/A4_Project/DrvExt/DrvExt_src/DispDevPanel/Disp_IFDSI_LCD1_TWJ50IP007_ILI9806E/../dispdev_ifdsi.h \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/DispDevPanel/Disp_IFDSI_LCD1_TWJ50IP007_ILI9806E/../dispdev_ifdsi.h \
  ../Disp_PANELCOMMON/dispdev_panlcomn.h \
  ../../../../Include/Drv/Dispobj/dispdev_ioctrl.h \
  ../../../../Include/Drv/Dispobj/display.h \
@@ -146,7 +146,7 @@ Disp_IFDSI_LCD1_TWJ50IP007_ILI9806E_Data/Release/ObjectCode/dispdev_IFdsi.o: \
 
 ../../../../Include/Drv/Driver_Sys/top.h:
 
-e:/¹«°åA4/A4_Project/DrvExt/DrvExt_src/DispDevPanel/Disp_IFDSI_LCD1_TWJ50IP007_ILI9806E/../dispdev_ifdsi.h:
+e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/DispDevPanel/Disp_IFDSI_LCD1_TWJ50IP007_ILI9806E/../dispdev_ifdsi.h:
 
 ../Disp_PANELCOMMON/dispdev_panlcomn.h:
 

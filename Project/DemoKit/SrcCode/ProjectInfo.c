@@ -91,7 +91,7 @@ char gFWExternalVersion[33]="SAIBOSHI.2015.0731.V0.1";
 char gFWExternalVersion[33]="328.2015.0731.V0.1";
 #else
 //char gFWExternalVersion[33]="8401.2015.0727.V0.1";
-char gFWExternalVersion[33]="A4.2015.1102.V1.0";
+char gFWExternalVersion[33]="A4.2015.1109.V1.0";
 #endif
 
 char* Prj_GetVersionString()

@@ -1,5 +1,5 @@
 Disp_IFDSI_LCD1_TWJ50IP007_ILI9806E_Data/Release/ObjectCode/ILI9806E_dsi.o: \
- e:/¹«°åA4/A4_Project/DrvExt/DrvExt_src/DispDevPanel/Disp_IFDSI_LCD1_TWJ50IP007_ILI9806E/ILI9806E_dsi.c \
+ e:/workspace/NT9665X_A4/DrvExt/DrvExt_src/DispDevPanel/Disp_IFDSI_LCD1_TWJ50IP007_ILI9806E/ILI9806E_dsi.c \
  ../../../../Include/Common/Debug/debug.h \
  ../../../../Include/Common/Type.h ../../../../Include/Common/StdCMac.h \
  ../../../../Include/Common/Platform.h \
